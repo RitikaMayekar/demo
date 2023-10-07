@@ -1,1 +1,1 @@
-This is Dummy text file.
+This is Sample text file used for demonstration.
